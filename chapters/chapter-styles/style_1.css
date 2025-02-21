@@ -149,6 +149,9 @@ i {
     height: 700px;
     overflow-x: hidden;
     overflow-y: auto;
+    background-color: #d8d3b2b7;
+    border-radius: 20px;
+    padding: 10px;
     
 }
 
