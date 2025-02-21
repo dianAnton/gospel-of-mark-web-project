@@ -4,14 +4,14 @@ Página web donde podemos leer el Evangelio de Marcos, junto con verdades bíbli
 
 Para acceder al sitio web, visita el siguiente link: https://ijusevangeliomarcos.netlify.app/
 
-![alt text](https://github.com/[dianAnton]/[gospel-of-mark-web-project]/blob/[main]/screens.png?raw=true)
+![alt text](https://github.com/dianAnton/gospel-of-mark-web-project/blob/main/screens.png?raw=true)
 
 ### Distribución de la página:
 
 1.  **Arquitectura y organización:**
     
     -   ##### ✅Estructura de carpetas. Separamos el HTML del CSS.
-    -  ##### ✅ Uso de archivo index.html como página principal
+    -  ##### ✅ Uso de archivo index.html como página principal.
     -   ##### ✅Reciclamos archivos de estilo para diferentes páginas HTML, ahorrando espacio y evitando la repetición.
 2.  **Interfaces y modularidad:**
     
